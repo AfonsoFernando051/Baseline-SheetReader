@@ -1,0 +1,13 @@
+importable\model\sheet\DetailedSheet.class
+importable\model\Customer.class
+importable\model\Product.class
+importable\old\OldCustomerImporter.class
+importable\model\sheet\ImportableSheet.class
+importable\old\OldProductImporter.class
+importable\model\sheet\SheetValor.class
+importable\model\sheet\SheetLong.class
+importable\run\MainWDP.class
+importable\translator\Translator.class
+importable\model\sheet\AbstractSheet.class
+importable\model\sheet\SheetData.class
+importable\model\sheet\SheetString.class

@@ -1,0 +1,13 @@
+C:\Java\SheetReader-WDP\src\main\java\importable\model\Customer.java
+C:\Java\SheetReader-WDP\src\main\java\importable\model\Product.java
+C:\Java\SheetReader-WDP\src\main\java\importable\model\sheet\AbstractSheet.java
+C:\Java\SheetReader-WDP\src\main\java\importable\model\sheet\DetailedSheet.java
+C:\Java\SheetReader-WDP\src\main\java\importable\model\sheet\ImportableSheet.java
+C:\Java\SheetReader-WDP\src\main\java\importable\model\sheet\SheetData.java
+C:\Java\SheetReader-WDP\src\main\java\importable\model\sheet\SheetLong.java
+C:\Java\SheetReader-WDP\src\main\java\importable\model\sheet\SheetString.java
+C:\Java\SheetReader-WDP\src\main\java\importable\model\sheet\SheetValor.java
+C:\Java\SheetReader-WDP\src\main\java\importable\old\OldCustomerImporter.java
+C:\Java\SheetReader-WDP\src\main\java\importable\old\OldProductImporter.java
+C:\Java\SheetReader-WDP\src\main\java\importable\run\MainWDP.java
+C:\Java\SheetReader-WDP\src\main\java\importable\translator\Translator.java
