@@ -20,7 +20,7 @@ public class MainWDP {
 		try {
 			InputStream customerStream = MainWDP.class.getClassLoader().getResourceAsStream("customers.xlsx");
 			byte[] customerFile = customerStream.readAllBytes();
-			List<Customer> customers = OldCustomerImporter.importarDadosPlanilha("0", true, "A", "B", "D", "F", "G",
+			List<Customer> customers = OldCustomerImporter.importSheetData("0", true, "A", "B", "D", "F", "G",
 					customerFile);
 			System.out.println("\nCustomers imported: " + customers.size());
 			for (Object c : customers) {
@@ -29,7 +29,7 @@ public class MainWDP {
 
 			InputStream productStream = MainWDP.class.getClassLoader().getResourceAsStream("products.xlsx");
 			byte[] productFile = productStream.readAllBytes();
-			List<Product> products = OldProductImporter.importarDadosPlanilha("0", true, "A", "B", "D", "C",
+			List<Product> products = OldProductImporter.importSheetData("0", true, "A", "B", "D", "C",
 					productFile);
 			System.out.println("\nProducts imported: " + products.size());
 			for (Object p : products) {
