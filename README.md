@@ -210,4 +210,36 @@ java -cp target/SheetReader-1.0.jar importable.old.OldProductImporter
 Developed as part of an academic case study for a **Bachelor’s Thesis (TCC)**.
 📎 GitHub: [@AfonsoFernando051](https://github.com/AfonsoFernando051)
 
+---
 
+## 👨‍💻 **10. Author & References**
+
+**Fernando Afonso de Souza Dias** & **Esdras Altivo Batista Corrêa**
+*Faculdade de Ciências Empresariais - Universidade FUMEC*
+
+This project was developed as part of an academic case study for a **Bachelor’s Thesis (TCC)** regarding Software Engineering and Design Patterns.
+
+---
+
+## 👨‍💻 **10. Author & References**
+
+[cite_start]**Fernando Afonso de Souza Dias** & **Esdras Altivo Batista Corrêa** [cite: 2]
+[cite_start]*Faculdade de Ciências Empresariais - Universidade FUMEC* [cite: 3]
+
+This project was developed as part of an academic case study for a **Bachelor’s Thesis (TCC)** regarding Software Engineering and Design Patterns.
+
+### 📄 **Academic Article**
+* [cite_start]**Title:** *Impacto dos Padrões de Projeto na Escalabilidade: Uma Análise Quantitativa de Custo-Benefício e Manutenibilidade em Java* [cite: 1]
+* **Link:** [📄 **Read the Full Paper (PDF)**](./docs/Impacto_dos_Padrões_de_Projeto_na_Escalabilidade.pdf)
+    * *Note: The full quantitative analysis and methodology described in this README are available in the article above.*
+* [cite_start]**Abstract:** Investigates the practical application of design patterns (Factory, Strategy, Template Method) in data processing systems, demonstrating quantitative gains in cohesion, coupling, and scalability[cite: 6, 8, 9].
+
+### 🔗 **Project Versions**
+* ✨ **Current Project (Refactored):** [**Java-Maven-SheetReader**](https://github.com/AfonsoFernando051/Java-Maven-SheetReader)
+    * *The recommended version. Clean architecture, modular, and extensible using Design Patterns.*
+    
+* 🕸️ **Legacy Project (Baseline):** [**Legacy-SheetReader (God Class)**](https://github.com/AfonsoFernando051/Baseline-SheetReader)
+    * *The control group version. Monolithic, procedural, and highly coupled code used for comparison in the study.*
+
+---
+📎 **GitHub Profile:** [@AfonsoFernando051](https://github.com/AfonsoFernando051)
