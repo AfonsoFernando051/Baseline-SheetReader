@@ -204,24 +204,7 @@ java -cp target/SheetReader-1.0.jar importable.old.OldProductImporter
 
 ---
 
-## 👨‍💻 **9. Author**
-
-**Afonso Fernando Afonso**
-Developed as part of an academic case study for a **Bachelor’s Thesis (TCC)**.
-📎 GitHub: [@AfonsoFernando051](https://github.com/AfonsoFernando051)
-
----
-
-## 👨‍💻 **10. Author & References**
-
-**Fernando Afonso de Souza Dias** & **Esdras Altivo Batista Corrêa**
-*Faculdade de Ciências Empresariais - Universidade FUMEC*
-
-This project was developed as part of an academic case study for a **Bachelor’s Thesis (TCC)** regarding Software Engineering and Design Patterns.
-
----
-
-## 👨‍💻 **10. Author & References**
+## 👨‍💻 **9. Author & References**
 
 [cite_start]**Fernando Afonso de Souza Dias** & **Esdras Altivo Batista Corrêa** [cite: 2]
 [cite_start]*Faculdade de Ciências Empresariais - Universidade FUMEC* [cite: 3]
