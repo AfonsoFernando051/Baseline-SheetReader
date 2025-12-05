@@ -31,13 +31,13 @@ The original version (`importable.old`) is a classic example of a monolithic pro
 
 This diagram shows the "God Method" signature, proving the high coupling. The `Client` must know internal implementation details (the column letters), creating a fragile design.
 
-![Original "God Class" Architecture](main/resources/images/diagrama_god_class.png)
+![Original "God Class" Architecture](src/main/resources/images/diagrama_god_class.png)
 
 #### Sequence Diagram (Low Cohesion)
 
 This diagram proves the low functional cohesion. The `OldCustomerImporter` class does all the work internally (parsing, mapping, creating) without delegating any responsibility.
 
-![Original "God Class" Sequence](main/resources/images/sequencia_god_class.png)
+![Original "God Class" Sequence](src/main/resources/images/sequencia_god_class.png)
 
 ---
 
@@ -57,13 +57,13 @@ The refactored version applies multiple design patterns to distribute complexity
 
 This diagram shows how the patterns collaborate to create a decoupled, extensible system.
 
-![Refactored Architecture with Design Patterns](main/resources/images/diagrama_arquitetura.png)
+![Refactored Architecture with Design Patterns](src/main/resources/images/diagrama_arquitetura.png)
 
 #### Sequence Diagram (Low Coupling in Execution)
 
 This diagram proves the low coupling at runtime. The `Client` (Main) is completely isolated from the concrete `Mapper` implementations, interacting only with abstractions provided by the factories.
 
-![Refactored Execution Sequence Diagram](main/resources/images/diagrama_sequencia.png)
+![Refactored Execution Sequence Diagram](src/main/resources/images/diagrama_sequencia.png)
 
 📂 **Main Packages**
 
